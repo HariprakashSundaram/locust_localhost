@@ -46,4 +46,5 @@ kubectl exec -it locust-master-<pod-id> -n locust -- bash
 # Once inside the pod, navigate and explore
 ls -la /reports
 cd /reports
+
 ls -la
